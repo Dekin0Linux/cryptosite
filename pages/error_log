@@ -1,0 +1,213 @@
+[20-Sep-2022 11:54:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/pages/pass_recovery.php on line 39
+[20-Sep-2022 11:54:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/pages/pass_recovery.php on line 39
+[20-Sep-2022 11:54:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/pages/pass_recovery.php on line 39
+[20-Sep-2022 11:54:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/pages/pass_recovery.php on line 39
+[20-Sep-2022 11:55:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/pages/pass_recovery.php on line 39
+[20-Sep-2022 11:56:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/pages/pass_recovery.php on line 39
+[21-Sep-2022 09:08:25 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 151
+[21-Sep-2022 09:08:25 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 154
+[21-Sep-2022 09:08:25 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 170
+[21-Sep-2022 09:08:25 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 186
+[21-Sep-2022 09:08:25 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 202
+[21-Sep-2022 09:16:26 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 151
+[21-Sep-2022 09:16:26 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 154
+[21-Sep-2022 09:16:26 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 170
+[21-Sep-2022 09:16:26 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 186
+[21-Sep-2022 09:16:26 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 202
+[21-Sep-2022 09:18:42 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 151
+[21-Sep-2022 09:18:42 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 154
+[21-Sep-2022 09:18:42 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 170
+[21-Sep-2022 09:18:42 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 186
+[21-Sep-2022 09:18:42 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 202
+[21-Sep-2022 09:18:46 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 151
+[21-Sep-2022 09:18:46 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 154
+[21-Sep-2022 09:18:46 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 170
+[21-Sep-2022 09:18:46 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 186
+[21-Sep-2022 09:18:46 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 202
+[21-Sep-2022 09:23:04 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 151
+[21-Sep-2022 09:23:04 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 154
+[21-Sep-2022 09:23:04 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 170
+[21-Sep-2022 09:23:04 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 186
+[21-Sep-2022 09:23:04 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 202
+[21-Sep-2022 09:27:15 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 151
+[21-Sep-2022 09:27:15 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 154
+[21-Sep-2022 09:27:15 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 170
+[21-Sep-2022 09:27:15 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 186
+[21-Sep-2022 09:27:15 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 202
+[21-Sep-2022 09:52:08 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 151
+[21-Sep-2022 09:52:08 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 154
+[21-Sep-2022 09:52:08 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 170
+[21-Sep-2022 09:52:08 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 186
+[21-Sep-2022 09:52:08 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 202
+[21-Sep-2022 09:52:15 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 151
+[21-Sep-2022 09:52:15 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 154
+[21-Sep-2022 09:52:15 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 170
+[21-Sep-2022 09:52:15 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 186
+[21-Sep-2022 09:52:15 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 202
+[21-Sep-2022 10:04:31 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 151
+[21-Sep-2022 10:04:31 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 154
+[21-Sep-2022 10:04:31 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 170
+[21-Sep-2022 10:04:31 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 186
+[21-Sep-2022 10:04:31 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 202
+[21-Sep-2022 10:05:30 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 151
+[21-Sep-2022 10:05:30 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 154
+[21-Sep-2022 10:05:30 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 170
+[21-Sep-2022 10:05:30 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 186
+[21-Sep-2022 10:05:30 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 202
+[21-Sep-2022 10:05:56 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 151
+[21-Sep-2022 10:05:56 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 154
+[21-Sep-2022 10:05:56 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 170
+[21-Sep-2022 10:05:56 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 186
+[21-Sep-2022 10:05:56 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 202
+[21-Sep-2022 10:51:28 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 151
+[21-Sep-2022 10:51:28 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 154
+[21-Sep-2022 10:51:28 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 170
+[21-Sep-2022 10:51:28 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 186
+[21-Sep-2022 10:51:28 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 202
+[21-Sep-2022 10:51:44 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 151
+[21-Sep-2022 10:51:44 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 154
+[21-Sep-2022 10:51:44 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 170
+[21-Sep-2022 10:51:44 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 186
+[21-Sep-2022 10:51:44 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 202
+[21-Sep-2022 12:28:21 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 151
+[21-Sep-2022 12:28:21 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 154
+[21-Sep-2022 12:28:21 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 170
+[21-Sep-2022 12:28:21 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 186
+[21-Sep-2022 12:28:21 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 202
+[21-Sep-2022 12:32:22 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 151
+[21-Sep-2022 12:32:22 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 154
+[21-Sep-2022 12:32:22 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 170
+[21-Sep-2022 12:32:22 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 186
+[21-Sep-2022 12:32:22 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 202
+[21-Sep-2022 12:32:31 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 151
+[21-Sep-2022 12:32:31 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 154
+[21-Sep-2022 12:32:31 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 170
+[21-Sep-2022 12:32:31 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 186
+[21-Sep-2022 12:32:31 UTC] PHP Warning:  Division by zero in /home/fxbcrypt/public_html/pages/dashboard.php on line 202
+[21-Sep-2022 12:39:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/inc/nav.php on line 4
+[21-Sep-2022 12:39:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/inc/nav.php on line 4
+[23-Sep-2022 08:35:42 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home/fxbcrypt/public_html/pages/process.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/fxbcrypt/public_html/pages/process.php on line 27
+[23-Sep-2022 08:35:43 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home/fxbcrypt/public_html/pages/process.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/fxbcrypt/public_html/pages/process.php on line 27
+[23-Sep-2022 08:35:46 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home/fxbcrypt/public_html/pages/process.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/fxbcrypt/public_html/pages/process.php on line 27
+[23-Sep-2022 08:35:48 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home/fxbcrypt/public_html/pages/process.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/fxbcrypt/public_html/pages/process.php on line 27
+[23-Sep-2022 08:35:52 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home/fxbcrypt/public_html/pages/process.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/fxbcrypt/public_html/pages/process.php on line 27
+[23-Sep-2022 08:35:54 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home/fxbcrypt/public_html/pages/process.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/fxbcrypt/public_html/pages/process.php on line 27
+[23-Sep-2022 08:36:34 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home/fxbcrypt/public_html/pages/process.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/fxbcrypt/public_html/pages/process.php on line 27
+[23-Sep-2022 08:36:47 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home/fxbcrypt/public_html/pages/process.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/fxbcrypt/public_html/pages/process.php on line 27
+[23-Sep-2022 08:37:58 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home/fxbcrypt/public_html/pages/process.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/fxbcrypt/public_html/pages/process.php on line 27
+[23-Sep-2022 08:38:45 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home/fxbcrypt/public_html/pages/process.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/fxbcrypt/public_html/pages/process.php on line 27
+[23-Sep-2022 08:39:07 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home/fxbcrypt/public_html/pages/process.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/fxbcrypt/public_html/pages/process.php on line 27
+[23-Sep-2022 08:39:32 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home/fxbcrypt/public_html/pages/process.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/fxbcrypt/public_html/pages/process.php on line 27
+[23-Sep-2022 08:39:34 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home/fxbcrypt/public_html/pages/process.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/fxbcrypt/public_html/pages/process.php on line 27
+[23-Sep-2022 08:39:50 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home/fxbcrypt/public_html/pages/process.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/fxbcrypt/public_html/pages/process.php on line 27
+[23-Sep-2022 08:39:52 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home/fxbcrypt/public_html/pages/process.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/fxbcrypt/public_html/pages/process.php on line 27
+[23-Sep-2022 08:40:18 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home/fxbcrypt/public_html/pages/process.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/fxbcrypt/public_html/pages/process.php on line 27
+[23-Sep-2022 08:40:55 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home/fxbcrypt/public_html/pages/process.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/fxbcrypt/public_html/pages/process.php on line 27
+[23-Sep-2022 08:48:25 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 1 given in /home/fxbcrypt/public_html/pages/process.php on line 49
+[23-Sep-2022 08:48:28 UTC] PHP Warning:  session_unset() expects exactly 0 parameters, 1 given in /home/fxbcrypt/public_html/pages/process.php on line 49
+[23-Sep-2022 08:49:27 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home/fxbcrypt/public_html/pages/process.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/fxbcrypt/public_html/pages/process.php on line 27
+[23-Sep-2022 08:49:55 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home/fxbcrypt/public_html/pages/process.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/fxbcrypt/public_html/pages/process.php on line 27
+[23-Sep-2022 09:26:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/pages/pricing.php on line 6
+[23-Sep-2022 09:26:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/inc/nav.php on line 4
+[23-Sep-2022 19:00:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/pages/profile.php on line 6
+[23-Sep-2022 19:00:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/inc/nav.php on line 4
+[23-Sep-2022 19:00:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/pages/profile.php on line 6
+[23-Sep-2022 19:00:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/inc/nav.php on line 4
+[24-Sep-2022 01:40:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/pages/profile.php on line 6
+[24-Sep-2022 01:40:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/inc/nav.php on line 4
+[24-Sep-2022 01:41:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/pages/profile.php on line 6
+[24-Sep-2022 01:41:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/inc/nav.php on line 4
+[24-Sep-2022 01:41:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/pages/activities.php on line 5
+[24-Sep-2022 01:41:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/inc/nav.php on line 4
+[24-Sep-2022 01:41:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/inc/nav.php on line 4
+[24-Sep-2022 01:41:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/pages/pricing.php on line 6
+[24-Sep-2022 01:41:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/inc/nav.php on line 4
+[24-Sep-2022 01:41:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/pages/activities.php on line 5
+[24-Sep-2022 01:41:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/inc/nav.php on line 4
+[24-Sep-2022 01:42:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/pages/profile.php on line 6
+[24-Sep-2022 01:42:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/inc/nav.php on line 4
+[29-Sep-2022 09:11:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/pages/activities.php on line 5
+[29-Sep-2022 09:11:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/inc/nav.php on line 4
+[29-Sep-2022 10:31:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/pages/activities.php on line 5
+[29-Sep-2022 10:31:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/inc/nav.php on line 4
+[30-Sep-2022 12:39:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/pages/pricing.php on line 6
+[30-Sep-2022 12:39:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/inc/nav.php on line 4
+[30-Sep-2022 14:59:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/pages/pricing.php on line 6
+[30-Sep-2022 14:59:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/inc/nav.php on line 4
+[30-Sep-2022 16:42:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/pages/pricing.php on line 6
+[30-Sep-2022 16:42:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/inc/nav.php on line 4
+[30-Sep-2022 16:43:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/pages/pricing.php on line 6
+[30-Sep-2022 16:43:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/inc/nav.php on line 4
+[09-Oct-2022 11:45:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/pages/profile.php on line 6
+[09-Oct-2022 11:45:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/inc/nav.php on line 4
+[09-Oct-2022 11:46:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/pages/profile.php on line 6
+[09-Oct-2022 11:46:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/inc/nav.php on line 4
+[09-Oct-2022 22:48:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/pages/activities.php on line 5
+[09-Oct-2022 22:48:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/inc/nav.php on line 4
+[11-Oct-2022 21:07:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/pages/profile.php on line 6
+[11-Oct-2022 21:07:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/inc/nav.php on line 4
+[13-Oct-2022 21:20:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/pages/profile.php on line 6
+[13-Oct-2022 21:20:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/inc/nav.php on line 4
+[22-Oct-2022 12:59:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/pages/activities.php on line 5
+[22-Oct-2022 12:59:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/inc/nav.php on line 4
+[22-Oct-2022 12:59:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/pages/activities.php on line 5
+[22-Oct-2022 12:59:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/inc/nav.php on line 4
+[22-Oct-2022 13:40:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/pages/activities.php on line 5
+[22-Oct-2022 13:40:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fxbcrypt/public_html/inc/header.php:7) in /home/fxbcrypt/public_html/inc/nav.php on line 4
